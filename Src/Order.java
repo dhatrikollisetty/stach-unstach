@@ -4,5 +4,4 @@ public class Order {
     public Order(String product) {
         this.product = product;
     }
-    System.out.println("Product item");
 }
